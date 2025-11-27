@@ -12,6 +12,7 @@ public class hello{
         int c=a+b;
         int d=a-b;
         int e=a*b;
+        int f=a/b;
 
         System.out.println("add : "+ c +" ");
         System.out.println("add : "+ d +" ");
